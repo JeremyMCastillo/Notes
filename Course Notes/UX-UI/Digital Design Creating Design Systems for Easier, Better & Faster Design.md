@@ -22,8 +22,11 @@ Reduces confusion, build once and propogate the entire system. Collaboration bec
 4. [[Design Systems]]
 #### Websites
 1. [Material Design](https://material.io/design)
+2. [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)
+3. [Shopify Polaris](https://polaris.shopify.com)
 
 # Questions 
 1. How do you practically enforce a Design System? What is to stop a developer from overlooking, ignoring, or misunderstanding the system? Sure the argument could be made that a disregarded system needs improvement, but what are the preventative measures a designer could put into place to avoid deviations from the system? 
 	1. Possibly the key to making sure a Design System is properly implemented is by making it as simple and concise as possible. 
 	2. A digital Design System with searchability probably has a much better chance of survival than one in print. 
+2. Is it better to come up with the system all at once before the project, or as you develop and run into problems? 

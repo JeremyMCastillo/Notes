@@ -8,3 +8,8 @@ The beset thing about [[Linking]] in Obsidian is that you don't have to stop and
 
 # Views
 It seems like there are several helpful views that you can use in Obsidian, the main one is the edit window where you can type Markdown. Another tab view gives you links and references from within your current note, and another view shows you a rendered markdown page. It seems like there are more [[Plugins]] and views to take advantage of, I'm interested to discover all of the options. 
+# Plugins
+## Git for Obsidian
+### Hotkeys
+CTRL+ALT+S -> Save and commit changes
+CTRL+ALT+P -> Pull Changes
