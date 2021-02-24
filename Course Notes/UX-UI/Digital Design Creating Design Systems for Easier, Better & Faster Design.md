@@ -9,6 +9,9 @@ Individual pieces that are used to build up a website or app. A standardized col
 Directives for using the components correctly. Without proper guidance, it's possible to have beautiful components used improperly. 
 ## Reference Site
 A singular location that houses the components and guidance. Essentially, the style guide. 
+
+---
+
 # Why Use a Design System
 ## Saves Time
 If you have a design system, you can pull from a store of components and idealogy when developing. You don't need to reinvent the wheel and remake decisions. 
@@ -24,11 +27,22 @@ Reduces confusion, build once and propogate the entire system. Collaboration bec
 1. [Material Design](https://material.io/design)
 2. [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)
 3. [Shopify Polaris](https://polaris.shopify.com)
+
+---
+
 # Creating Your Own Design System
 ## Universal Patterns
 Components that all applications need: textd, forms, menus, buttons. These are a good starting point to start establishing the system. 
 ## Specific Patterns
 Patterns that set your application apart from others. How do you want the feel of your application to differ from others? For [[jeremycastillo.net]] I wanted the website to feel professional and comfortable to look at. For that reason, my Design System would include my natural tone color palette. 
+
+![[design-system-checklist-EN.pdf]]
+
+## Use Pilots
+Take things that are already working and extract things from that. Borrow flows (checkout flow, login flow) and improve on the things that don't work as well.
+## Keep Technology Stack Agnostic (At First)
+Focus first on design that can be used regardless of technology. HTML, CSS and vanilla Javascript are universal, start building your components there. Once the defaults are defined, you can expand upon them using specific technolgies like [[JQuery]] or [[React]] if that's what the project uses. This protects you if that technology stack becomes obsolete. 
+
 # Questions 
 1. How do you practically enforce a Design System? What is to stop a developer from overlooking, ignoring, or misunderstanding the system? Sure the argument could be made that a disregarded system needs improvement, but what are the preventative measures a designer could put into place to avoid deviations from the system? 
 	1. Possibly the key to making sure a Design System is properly implemented is by making it as simple and concise as possible. 
