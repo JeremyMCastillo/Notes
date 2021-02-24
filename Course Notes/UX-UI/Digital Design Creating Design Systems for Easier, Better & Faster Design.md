@@ -43,6 +43,8 @@ Take things that are already working and extract things from that. Borrow flows 
 ## Keep Technology Stack Agnostic (At First)
 Focus first on design that can be used regardless of technology. HTML, CSS and vanilla Javascript are universal, start building your components there. Once the defaults are defined, you can expand upon them using specific technolgies like [[JQuery]] or [[React]] if that's what the project uses. This protects you if that technology stack becomes obsolete. 
 
+---
+
 # Questions 
 1. How do you practically enforce a Design System? What is to stop a developer from overlooking, ignoring, or misunderstanding the system? Sure the argument could be made that a disregarded system needs improvement, but what are the preventative measures a designer could put into place to avoid deviations from the system? 
 	1. Possibly the key to making sure a Design System is properly implemented is by making it as simple and concise as possible. 
