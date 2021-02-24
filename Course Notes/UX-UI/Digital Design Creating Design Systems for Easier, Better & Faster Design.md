@@ -24,7 +24,11 @@ Reduces confusion, build once and propogate the entire system. Collaboration bec
 1. [Material Design](https://material.io/design)
 2. [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)
 3. [Shopify Polaris](https://polaris.shopify.com)
-
+# Creating Your Own Design System
+## Universal Patterns
+Components that all applications need: textd, forms, menus, buttons. These are a good starting point to start establishing the system. 
+## Specific Patterns
+Patterns that set your application apart from others. How do you want the feel of your application to differ from others? For [[jeremycastillo.net]] I wanted the website to feel professional and comfortable to look at. For that reason, my Design System would include my natural tone color palette. 
 # Questions 
 1. How do you practically enforce a Design System? What is to stop a developer from overlooking, ignoring, or misunderstanding the system? Sure the argument could be made that a disregarded system needs improvement, but what are the preventative measures a designer could put into place to avoid deviations from the system? 
 	1. Possibly the key to making sure a Design System is properly implemented is by making it as simple and concise as possible. 
