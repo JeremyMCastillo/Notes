@@ -1,0 +1,3 @@
+[submodule "Private"]
+	path = Private
+	url = git@bitbucket.org:jcast029/private-notes.git
