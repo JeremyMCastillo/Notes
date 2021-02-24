@@ -36,7 +36,7 @@ Components that all applications need: textd, forms, menus, buttons. These are a
 ## Specific Patterns
 Patterns that set your application apart from others. How do you want the feel of your application to differ from others? For [[jeremycastillo.net]] I wanted the website to feel professional and comfortable to look at. For that reason, my Design System would include my natural tone color palette. 
 
-![[design-system-checklist-EN.pdf]]
+[[design-system-checklist-EN.pdf|Nathan Curtis Design System Checklist]]
 
 ## Use Pilots
 Take things that are already working and extract things from that. Borrow flows (checkout flow, login flow) and improve on the things that don't work as well.
