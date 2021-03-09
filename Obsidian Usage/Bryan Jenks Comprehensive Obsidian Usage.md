@@ -28,3 +28,5 @@ In those specific links and posts, continue expanding on the idea by further lin
 [[Manage Bookmarks with Raindrop.io]]
 # Closing out the Workflow
 Once notes are in Obsidian, use them to generate new ideas ([[Seedlings]]) then plant those seedlings into the [[Evergreen Forest]]. 
+
+The whole point is not Collection, it is Synthesis. You want to take notes for the purpose of referencing this information down the road. 
