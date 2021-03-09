@@ -1,0 +1,2 @@
+# Concept
+The Evergreen Forest is the concept from [[Bryan Jenks Comprehensive Obsidian Usage]] which details how to take [[Seedlings]] and plant them by deep linking them to other notes. The ultimate purpose of keeping an Evergreen Forest is to continue to expand upon your notes, making them Evergreen, in hopes of stumbling upon useful information in the future. 

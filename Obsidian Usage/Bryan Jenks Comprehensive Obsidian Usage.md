@@ -26,3 +26,5 @@ In those specific links and posts, continue expanding on the idea by further lin
 [[Embed podcasts into Obsidian with Omny.fm]]
 ## Blog Posts
 [[Manage Bookmarks with Raindrop.io]]
+# Closing out the Workflow
+Once notes are in Obsidian, use them to generate new ideas ([[Seedlings]]) then plant those seedlings into the [[Evergreen forest]]. 

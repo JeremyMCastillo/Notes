@@ -20,3 +20,8 @@ It seems like there are several helpful views that you can use in Obsidian, the 
 ### Hotkeys
 CTRL+ALT+S -> Save and commit changes
 CTRL+ALT+P -> Pull Changes
+
+---
+
+# Advanced Usage and Concepts
+[[Bryan Jenks Comprehensive Obsidian Usage]]
