@@ -33,5 +33,13 @@ graph TD;
 	P4-->D
 	A-->Q[Physical Books]
 	Q-->Q2[Read and hand write notes]
-	Q2-->Q3{}
+	Q2-->Q3{Lengthy/Complet?}
+	Q3-->|Y|Q4[Transcaribe each chapter]
+	Q3-->|N|Q5[Transcribe whole batch]
+	Q4-->D
+	Q5-->D
+	D-->R[Lit notes into seedbox]
+	R-->R2[Review lit notes and generate seedlings]
+	R2-->R3[Incubate seedlings with thought and linking]
+	R3-->R4>Plant seedlings into evergreen forest]
 ```

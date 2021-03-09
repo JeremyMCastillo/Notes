@@ -2,6 +2,8 @@
 
 # Overview
 Bryan Jenks is a programmer and expert note-taker that uses Obsidian.md to organize his thoughts. He uses concepts of [[Zettelkasten]] and [[Evergreen Notes]] to build is interconnected network of thoughts and notes. 
+
+It's not about "How do I search for this data" it's about "How am I going to stumble upon this data?" which is achieved through heavy linking. 
 # Note Taking Rules
 ## Link always 
 Note taking is most important when you can link your thoughts and ideas together. 
@@ -12,3 +14,13 @@ Incoming Content &rarr; Idea Distillation &rarr;  Produced Output
 # Workflows
 [[Mermaid.js]]
 [[Bryan Jenks Workflow Chart]]
+## Reading a book example
+Read a book and mark down page when you read something interesting, and write your own notes about it. Finish the whole book by repeating this method. 
+
+Make a "second pass" after reading the book by going through your notes. Expand on most interesting ideas by turning them into their own links/posts. 
+
+In those specific links and posts, continue expanding on the idea by further linking other posts and ideas. 
+## Videos
+[[Take timestamp notes on videos with YNote]]
+## Podcasts
+[[Embed podcasts into Obsidian with Omny.fm]]
