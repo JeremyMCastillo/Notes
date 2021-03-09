@@ -24,3 +24,5 @@ In those specific links and posts, continue expanding on the idea by further lin
 [[Take timestamp notes on videos with YNote]]
 ## Podcasts
 [[Embed podcasts into Obsidian with Omny.fm]]
+## Blog Posts
+[[Manage Bookmarks with Raindrop.io]]
