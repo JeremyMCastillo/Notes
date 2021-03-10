@@ -22,7 +22,7 @@ Make a "second pass" after reading the book by going through your notes. Expand 
 
 In those specific links and posts, continue expanding on the idea by further linking other posts and ideas. 
 ## Videos
-[[Take timestamp notes on videos with YNote]]
+[[Take timestamp notes on videos with YiNote]]
 ## Podcasts
 [[Embed podcasts into Obsidian with Omny.fm]]
 ## Blog Posts
