@@ -6,8 +6,11 @@ We lost motivation because with each step we take, we are unsure if that step is
 When you find yourself lost, you need to stop and realize that you're lost and figure out where you need to go. 
 
 Don't try to power through it. Find your clarity once again.  
-
 If you don't have motivation, admit that you don't know where you are or where you're going. 
+# What might cause you to get lost? 
+## You don't have the authority
+You may not know as much as you think you know about what you're trying to accomplish, leading you to get lost. 
+> I wanted to start a company based on telling people how to get their crap together, but I had no right because I didn't have my own crap together. 
 
 [[Motivation]]
 
