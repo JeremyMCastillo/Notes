@@ -12,6 +12,6 @@ If you don't have motivation, admit that you don't know where you are or where y
 You may not know as much as you think you know about what you're trying to accomplish, leading you to get lost. 
 > I wanted to start a company based on telling people how to get their crap together, but I had no right because I didn't have my own crap together. 
 
-[[Motivation]]
+[[Motivation MOC]]
 
 #Podcasts/Creative-Pep-Talk
