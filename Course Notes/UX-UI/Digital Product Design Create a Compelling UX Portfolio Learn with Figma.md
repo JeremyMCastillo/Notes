@@ -14,3 +14,5 @@ Define the Minimum Viable Product and how they would be implemented.
 Show your hard-copy work with scans or photos of notes or drawings. 
 
 Generating ideas for product design: https://www.briefbox.me
+# Tags
+#Content-Type/Video/Skillshare #Development/UX-UI 
