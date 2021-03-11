@@ -6,6 +6,9 @@ graph TD;
 		M1-->M2[Deepstash]-.->MM
 		M2-->M3[Medium]-.->MM
 		MM[Raindrop.io]
+		class M1 internal-link;
+		class M2 internal-link;
+		class M3 internal-link;
 	end
 	
 	subgraph "Commute"
@@ -31,5 +34,6 @@ graph TD;
 		MM-->HH
 		CC-->HH
 		WW-->HH
+		class HH internal-link;
 	end
 ```
