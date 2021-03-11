@@ -23,7 +23,7 @@ graph TD;
 		W1-->W2[Podcasts]-.->WW[Obsidian Seedlings]
 		W2-->W3[Youtube]-.->WW
 		W3-->W4[Feedly]-.->WW
-		W4-->W5[Medcium]-.->WW
+		W4-->W5[Medium]-.->WW
 		subgraph "Lunch"
 			WL[Relax and watch a show]
 		end
