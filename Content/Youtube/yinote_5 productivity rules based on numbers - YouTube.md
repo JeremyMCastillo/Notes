@@ -4,21 +4,13 @@
 
 # 52/17 rule 
 ## How 
-Similar to pomodoro. Work for 52 minutes then take 17 minute break. Apparently the exact amount of time your brain needs to focus and rest. Creates bigger intervals of productive work. Set 52 min timer and work without stopping. Then do something entertaining for 17 minutes. 
+Similar to [[The Pomodoro Technique]]. Work for 52 minutes then take 17 minute break. Apparently the exact amount of time your brain needs to focus and rest. Creates bigger intervals of productive work. Set 52 min timer and work without stopping. Then do something entertaining for 17 minutes. 
 ## Disadvantages 
-Classic pomodoro may work for other people. 52/17 works for people who take longer to get into things.  
+Classic Pomodoro may work for other people. 52/17 works for people who take longer to get into things.  
 
 [2:26](https://www.youtube.com/?yinotetimestamp=146)  
 
-# One Hour Rule 
-## What is it 
-Commit to one hour per day of writing for 30 days. You can produce 15,000 words per month. 
-## Purpose 
-Turn writing into a habit. Work it seamlessly into your schedule. One hour isn't that long. You can apply this to other things. 
-## How 
-Choose a consistent time. Build a trigger/response cycle. 
-## Disadvantages 
-You may limit yourself by sticking to one hour. But you may have to in order to get to other things. Quality of writing may not improve.  
+![[One Hour Rule]]
 
 [4:13](https://www.youtube.com/?yinotetimestamp=253)  
 
@@ -34,15 +26,7 @@ Can get in the way of projects you're trying to focus on.
 
 [5:48](https://www.youtube.com/?yinotetimestamp=348)  
 
-# 1-3-5 Rule 
-## What is it 
-Complete 1 major task, 3 medium, 5 small. 
-## Purpose 
-Make progress while keeping on top of small tasks. 
-## How 
-Categorize your tasks as you create them into small/medium/large so you can pick from a list. 
-## Disadvantages
-The breakdown between small/medium/large may be skewed.  
+![[1-3-5 Rule]]
 
 [7:20](https://www.youtube.com/?yinotetimestamp=440)  
 
@@ -56,4 +40,4 @@ Save your producitive time for your 20% tasks.
 ## Disadvantages 
 Not very clear. How do you still keep going on the 80% of tasks that don't pay off as much?
 
-#Seedling
+[[Productivity MOC]]
