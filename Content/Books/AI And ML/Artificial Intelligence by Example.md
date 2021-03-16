@@ -7,8 +7,8 @@ modified: 2021-03-11T06:54:38-08:00
 
 [[Denis Rothman]]
 
-[[Markov Decision Process]]
+We can implement [[Markov Decision Process]] by using the [[Bellman Equation]] as one of the components. 
 
-[[Bellman Equation]]
+
 
 #Seedling 
