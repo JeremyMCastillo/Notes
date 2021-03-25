@@ -9,3 +9,6 @@
 1. [[yinote_5 productivity rules based on numbers - YouTube]]
 	1. [[1-3-5 Rule]]
 	2. [[One Hour Rule]]
+
+# Productivity Psychology
+1. [[Range - Why Generalists Triumph in a Specialized World]]
