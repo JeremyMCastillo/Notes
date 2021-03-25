@@ -3,9 +3,9 @@
 # Savory
 # Texture
 #todo 
-- [ ] Look for food sources of Sweet
-- [ ] Look for food sources of Acidic
-- [ ] Look for food sources of Savory
-- [ ] Look for food sources of Texture
+- [x] Look for food sources of Sweet
+- [x] Look for food sources of Acidic
+- [x] Look for food sources of Savory
+- [x] Look for food sources of Texture
 
 [[Cooking]]
