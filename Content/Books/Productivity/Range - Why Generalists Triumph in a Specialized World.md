@@ -29,3 +29,5 @@ Two types of learning environments.
 Determine how effective repetitive practice is. Kind learning environments give rapid constant feedback, which make repetition useful. Wicked environments are random, and more common. It is more useful to have a generalists knowledge to deal with this environment. 
 Specialists can have the problem of always trying to solve the same issue the same way. If the rules of their "game" ever change, it's harder for them to adjust their thinking. 
 # How the Wicked World was Made
+## [[Raven's Progressive Matrices]]
+Tests given on abstract concepts are getting easier and easier to solve by modern test takers. 
