@@ -31,3 +31,7 @@ Specialists can have the problem of always trying to solve the same issue the sa
 # How the Wicked World was Made
 ## [[Raven's Progressive Matrices]]
 Tests given on abstract concepts are getting easier and easier to solve by modern test takers. 
+## [[The Flynn Effect]]
+Remote villagers miss forest for the trees, urban villagers miss trees for forest. 
+
+Remote see details and examine them objectively and directly. Those more "modern" draw upon past experience of patterns and social norms. 
