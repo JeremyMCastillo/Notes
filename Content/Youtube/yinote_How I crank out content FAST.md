@@ -13,7 +13,7 @@ Keep your tools set up. It should take as little amount of time as possible to g
 Never start from a blank page. Start from templates or frameworks. 
 
 #todo 
-- [ ] Look for some blogging templates and frameworks to get started. 
+- [x] Look for some blogging templates and frameworks to get started. 
 
 ## [4:36](https://www.youtube.com/watch?v=4YOZKOdFHWE&t=276)
 
