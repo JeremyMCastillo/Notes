@@ -6,4 +6,6 @@ Had a bad rap because it was associated with bodybuilding, but it is the most ef
 
 Full range of motion resistance training builds more flexibility than stretching. Enables you to handle load at certain positions. 
 
+[[Health]] - [[Exercise]]
 
+#Content-Type/Podcasts/Mind-Pump
