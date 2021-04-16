@@ -12,3 +12,4 @@
 
 # Productivity Psychology
 1. [[Range - Why Generalists Triumph in a Specialized World]]
+2. [[Developer Tea - Introduce Intentional Asymmetry]]
